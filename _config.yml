@@ -1,8 +1,8 @@
 # Site settings
 name: "Francisco Arcila"
 description: "Desarrollador Web"
-url: "https://FranciscoArcila.coderic.net"
-
+url: ""
+baseurl: "/franciscoarcila/"
 
 # about 5 elements are recomended
 github_username:  Francisco Arcila
